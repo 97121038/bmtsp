@@ -1,0 +1,3 @@
+[submodule "GA-salesman"]
+	path = GA-salesman
+	url = https://github.com/rektile/GA-salesman
